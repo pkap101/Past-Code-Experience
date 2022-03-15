@@ -1,5 +1,7 @@
 import string
 
+#this file encrypts strings by shifting the letters a chosen amount with a dictionary, and decrypts string by finding the shift that creates the most real words.
+
 ### DO NOT MODIFY THIS FUNCTION ###
 def load_words(file_name):
     '''
