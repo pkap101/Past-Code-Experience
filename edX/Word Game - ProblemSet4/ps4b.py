@@ -2,7 +2,7 @@ from ps4a import *
 import time
 
 
-#
+#while ps4a allows you to play the game, this file also allows for the computer to play
 #
 # Computer chooses a word
 #
